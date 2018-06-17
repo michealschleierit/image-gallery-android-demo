@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string-array name="image_urls">
+        <item tools:ignore="TypographyDashes">https://firebasestorage.googleapis.com/v0/b/mysamples-122c4.appspot.com/o/image-gallery-android%2Fborek00.jpg?alt=media&amp;token=55b63fa5-7a08-4a27-aab9-ccd92b44168b</item>
+        <item tools:ignore="TypographyDashes">https://firebasestorage.googleapis.com/v0/b/mysamples-122c4.appspot.com/o/image-gallery-android%2Fborek01.jpg?alt=media&amp;token=a435f46e-156e-4421-835b-1803cb66ed33</item>
+    </string-array>
+</resources>
